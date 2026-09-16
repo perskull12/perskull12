@@ -7,7 +7,7 @@
 I build practical web and mobile applications while continuously growing my skills in backend development, databases, software architecture, and cybersecurity.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/perskull12)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](pascal-otieno-11015921b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](www.linkedin.com/in/pascal-otieno-11015921b)
 [![Profile Views](https://komarev.com/ghpvc/?username=perskull12\&style=for-the-badge)](https://github.com/perskull12)
 
 </div>

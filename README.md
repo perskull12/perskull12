@@ -8,7 +8,7 @@ I build practical web and mobile applications while continuously growing my skil
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/perskull12)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](pascal-otieno-11015921b)
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME\&style=for-the-badge)](https://github.com/perskull12)
+[![Profile Views](https://komarev.com/ghpvc/?username=perskull12\&style=for-the-badge)](https://github.com/perskull12)
 
 </div>
 
@@ -92,20 +92,20 @@ I enjoy learning through hands-on projects and continuously improving how I desi
 ## Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
+<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
 </p>
 
-`MySQL` `MongoDB` `SQLite` `Appwrite`
+`MySQL` `SQLite` `Appwrite`
 
 ---
 
 ## Development Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,androidstudio" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman," />
 </p>
 
-`Git` `GitHub` `VS Code` `Postman` `Android Studio` `XAMPP`
+`Git` `GitHub` `VS Code` `Postman` 
 
 ---
 
@@ -126,37 +126,7 @@ Linux
 
 ---
 
-# Featured Projects
-
-## GroomMate
-
-**Web-Based Men's Grooming Booking Platform**
-
-GroomMate is a full-stack application designed to simplify booking grooming services.
-
-### Features
-
-* User registration and authentication
-* Grooming service listings
-* Appointment scheduling
-* Time-slot availability checking
-* Booking management
-* Customer reviews
-* Notifications
-* Administrative dashboard
-* User management
-* Service management
-* Appointment management
-* Analytics
-
-### Stack
-
-`React.js` `Node.js` `Express.js` `MySQL` `JavaScript` `CSS`
-
-[View Repository](YOUR_GROOMMATE_REPOSITORY_URL)
-
----
-
+Featured project
 ## What's For Eat
 
 **Food Recommendation Application**
@@ -176,30 +146,7 @@ What's For Eat helps users decide what to eat or cook based on their available i
 
 `React.js` `JavaScript` `Node.js` `REST APIs`
 
-[View Repository](YOUR_WHATS_FOR_EAT_REPOSITORY_URL)
-
----
-
-## Shelfie
-
-**React Native Book Management Application**
-
-Shelfie is a mobile application for creating and managing personal book collections.
-
-### Features
-
-* Add books
-* View book details
-* Delete books
-* User-specific book collections
-* Real-time updates
-* Cloud database integration
-
-### Stack
-
-`React Native` `Expo Router` `TypeScript` `Appwrite`
-
-[View Repository](YOUR_SHELFIE_REPOSITORY_URL)
+[Live demo](https://whatsforeat.vercel.app/)
 
 ---
 
